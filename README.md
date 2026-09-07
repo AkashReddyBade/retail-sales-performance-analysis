@@ -44,6 +44,15 @@ Revenue return rate is return value divided by gross merchandise sales. It diffe
 
 These are descriptive findings and proposed actions, not measured business improvements or causal conclusions.
 
+## Interactive controls
+
+- **Executive Sales Overview:** filter by year and country. The monthly year-over-year chart retains 2010 and 2011 for comparison while responding to the country selection.
+- **Customer Analysis:** filter by customer segment to explore customer counts, revenue, average value, and RFM patterns. Segments are calculated from the full analysis period.
+- **Operations & Return Risk:** filter by year and country to explore product returns, weekday revenue, peak hours, and average order value.
+- Select **(All)** in each filter to restore the full view.
+
+Use the Tableau Public link for interactive exploration; the images below are static previews.
+
 ## Dashboard previews
 
 All monetary values are shown in GBP (£), matching the source dataset.
