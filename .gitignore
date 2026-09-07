@@ -10,3 +10,9 @@ __pycache__/
 
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Local PostgreSQL session files
+*.session.sqldata/processed/retail_sales_analysis_ready.csv
