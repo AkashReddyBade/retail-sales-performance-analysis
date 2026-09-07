@@ -15,4 +15,5 @@ __pycache__/
 .vscode/
 
 # Local PostgreSQL session files
-*.session.sqldata/processed/retail_sales_analysis_ready.csv
+*.session.sql
+data/processed/retail_sales_analysis_ready.csv
